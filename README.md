@@ -6,6 +6,12 @@ RESTful API для системы бронирования переговорн�
 ## 💻 Стек технологий
 ![Java](https://img.shields.io/badge/Java-17%2B-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Maven](https://img.shields.io/badge/Maven-red) ![JWT](https://img.shields.io/badge/JWT-Authentication-purple)
 
+**Dependencies**
+    Spring Web
+    Spring Data JPA
+    Spring Security
+    PostgreSQL Driver
+    Lombok
 ---
 ## ✨ Ключевые возможности
 - **Аутентификация пользователей**: Безопасная регистрация и вход в систему с использованием JWT (JSON Web Tokens).
